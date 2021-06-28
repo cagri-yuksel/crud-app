@@ -9,7 +9,10 @@ npm install
 ```
 npm run serve
 ```
-
+### Nodemon run
+```
+npm run dev
+```
 ### Compiles and minifies for production
 ```
 npm run build
