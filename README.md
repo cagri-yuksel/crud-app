@@ -1,10 +1,9 @@
-# full-stack-rast-mobile
+# Crud-app
 
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -17,11 +16,10 @@ npm run dev
 ```
 npm run build
 ```
+--Register bölümü tamamlanacak--
+--handling errors--
+--CRUD işlemlerindeki uyarılar ve görselleştirme eklenecek--
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
