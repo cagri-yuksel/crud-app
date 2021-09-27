@@ -16,10 +16,5 @@ npm run dev
 ```
 npm run build
 ```
---Register bölümü tamamlanacak--
---handling errors--
---CRUD işlemlerindeki uyarılar ve görselleştirme eklenecek--
-
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
